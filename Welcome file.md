@@ -92,7 +92,7 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 > **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
 
 
-## Not so SmartyPants
+## DumbyPants
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjA1NzYxNCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNTcxMjQxNjU4LC0zMzI0NTUzNjNdfQ==
 -->
